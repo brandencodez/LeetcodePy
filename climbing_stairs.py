@@ -13,4 +13,3 @@ class Solution:
             return hashMap[n]
         
         return climb(n)
-            
